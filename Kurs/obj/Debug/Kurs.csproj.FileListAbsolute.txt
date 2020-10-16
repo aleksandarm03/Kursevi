@@ -1,0 +1,10 @@
+C:\Users\Lukenzy\Desktop\Matriksova nocna mora\Kurs\Kurs\bin\Debug\Kurs.exe.config
+C:\Users\Lukenzy\Desktop\Matriksova nocna mora\Kurs\Kurs\bin\Debug\Kurs.exe
+C:\Users\Lukenzy\Desktop\Matriksova nocna mora\Kurs\Kurs\bin\Debug\Kurs.pdb
+C:\Users\Lukenzy\Desktop\Matriksova nocna mora\Kurs\Kurs\obj\Debug\Kurs.csprojAssemblyReference.cache
+C:\Users\Lukenzy\Desktop\Matriksova nocna mora\Kurs\Kurs\obj\Debug\Kurs.Form1.resources
+C:\Users\Lukenzy\Desktop\Matriksova nocna mora\Kurs\Kurs\obj\Debug\Kurs.Properties.Resources.resources
+C:\Users\Lukenzy\Desktop\Matriksova nocna mora\Kurs\Kurs\obj\Debug\Kurs.csproj.GenerateResource.cache
+C:\Users\Lukenzy\Desktop\Matriksova nocna mora\Kurs\Kurs\obj\Debug\Kurs.csproj.CoreCompileInputs.cache
+C:\Users\Lukenzy\Desktop\Matriksova nocna mora\Kurs\Kurs\obj\Debug\Kurs.exe
+C:\Users\Lukenzy\Desktop\Matriksova nocna mora\Kurs\Kurs\obj\Debug\Kurs.pdb
